@@ -1,0 +1,13 @@
+
+CAMINHO: bin/Release/net6.0/linux-x64/publish/
+Para .zip:
+unzip PIM_IV_Linux.zip
+Torne o arquivo executável: Se necessário, seu amigo precisará dar permissão de execução ao arquivo:
+
+chmod +x PIM_IV
+
+Executar o aplicativo: Por fim, seu amigo pode rodar o aplicativo com o seguinte comando :
+
+./PIM_IV
+
+Esse arquivo esta no publish

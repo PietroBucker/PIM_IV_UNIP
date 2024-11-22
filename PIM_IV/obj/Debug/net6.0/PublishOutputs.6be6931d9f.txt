@@ -1,0 +1,5 @@
+/home/pietro/Área de Trabalho/estudo c#/PIM_IV/bin/Debug/net6.0/publish/PIM_IV
+/home/pietro/Área de Trabalho/estudo c#/PIM_IV/bin/Debug/net6.0/publish/PIM_IV.dll
+/home/pietro/Área de Trabalho/estudo c#/PIM_IV/bin/Debug/net6.0/publish/PIM_IV.deps.json
+/home/pietro/Área de Trabalho/estudo c#/PIM_IV/bin/Debug/net6.0/publish/PIM_IV.runtimeconfig.json
+/home/pietro/Área de Trabalho/estudo c#/PIM_IV/bin/Debug/net6.0/publish/PIM_IV.pdb
