@@ -3,6 +3,7 @@
 Este é um projeto desenvolvido em C# para gerenciamento de resíduos industriais, com funcionalidades para cadastro de empresas, atualização de resíduos e geração de relatórios.
 
 # OBS
+## Executar o PIM_IV.exe no windows como administrador
 ## usuairo: usuario1
 ## senha: senha123
 
