@@ -1,4 +1,5 @@
-
+usuairo: usuario1
+senha: senha123
 CAMINHO: bin/Release/net6.0/linux-x64/publish/
 Para .zip:
 unzip PIM_IV_Linux.zip
